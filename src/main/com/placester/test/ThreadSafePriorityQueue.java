@@ -1,6 +1,6 @@
 package com.placester.test;
 // NOTE: we are aware that there is a PriorityQueue in
-// java.util. PLease do not use this. 
+// java.util. Please do not use this. 
 // If you are doing this test at home, please do not use any containers from
 // java.util in your solution, as this is a test of data
 // structure knowledge, rather than a test of java library knowledge.
